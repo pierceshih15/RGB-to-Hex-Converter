@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+}
+
+.btn {
+    min-width: 80px;
+    border: 3px solid grey;
+    border-radius: 15px;
+}
+
+.inputZone {
+    width: 300px;
+}
+
+#inputRed:hover,
+#inputGreen:hover,
+#inputBlue:hover {
+    cursor: pointer;
+}
+
+.hexCode {
+    max-width: 500px;
+    padding: 10px 30px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 90px;
+    background-color: #ffffff90;
+    border-radius: 5px;
+}
