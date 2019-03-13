@@ -8,13 +8,8 @@ body {
     border-radius: 15px;
 }
 
-.inputZone {
+.inputStyle {
     width: 300px;
-}
-
-#inputRed:hover,
-#inputGreen:hover,
-#inputBlue:hover {
     cursor: pointer;
 }
 
